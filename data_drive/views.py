@@ -137,3 +137,5 @@ def previous_page(request, previous_id):
 
 
 
+def demmo_test(request):
+    return "hello!"
